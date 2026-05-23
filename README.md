@@ -1,3 +1,5 @@
+![demo](https://raw.githubusercontent.com/isudiptodas/VSCode_Dependency_Visualizer/main/src/media/demo.png)
+
 # Dependency Chart
 
 Dependency Chart is a VS Code extension that converts your project dependencies into an animated interactive pie chart for faster analysis and understanding.
